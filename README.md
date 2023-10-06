@@ -11,5 +11,6 @@
 <!--   <li><a href = "https://hemant-60.github.io/Me/">Portfolio Website</a> -->
   <li><a href = "https://www.hackerrank.com/hemant_rana19979?hr_r=1">HackerRank</a>
   <li><a href = "https://www.codechef.com/users/hemant_60">Codechef</a>
+    <li><a href = "https://scholar.google.com/citations?user=E_gPrdoAAAAJ">Google Scholar</a>
   
   
