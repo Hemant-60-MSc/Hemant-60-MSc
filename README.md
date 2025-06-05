@@ -1,8 +1,15 @@
 👋 Hi, I’m Hemant Rana
-<p> Currently pursuing <b>M.Sc. Applied Computer Science</b> at <b>University of Gottingen</b> </p>
-<p> Actively Looking for Software Developer jobs with interest (certainly not limited to) in Backend development, Machine Learning or Data Science.</p>
+<p> An experienced Software Engineer with skills and interests in 
+  <ul>
+  <li> 3D deep learning
+  <li> C/C++ development
+  <li> GPGPU and HPC programming
+  <li> Algorithmic problem solving
+  </ul>
+  </p>
+<p> Have completed <b>M.Sc. Applied Computer Science</b> from <b>University of Gottingen</b> </p>
 <hr>
-<p>Related Profiles</p>
+<p>Relevant Profiles</p>
 <ul>
   <li><a href = "https://leetcode.com/hemantrana/">Leetcode</a>
 <!--   <li><a href = "https://www.linkedin.com/in/hr26">Linkedin</a> -->
