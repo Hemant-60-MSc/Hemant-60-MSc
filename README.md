@@ -1,13 +1,13 @@
 👋 Hi, I’m Hemant Rana
 <p> An experienced Software Engineer with skills and interests in 
   <ul>
-  <li> 3D deep learning
-  <li> C/C++ development
-  <li> GPGPU and HPC programming
-  <li> Algorithmic problem solving
+  <li> <code>3D deep learning</code>
+  <li> <code>C/C++ development</code>
+  <li> <code>GPGPU and HPC programming</code>
+  <li> <code>Algorithmic problem solving</code>
   </ul>
   </p>
-<p> Have completed <b>M.Sc. Applied Computer Science</b> from <b>University of Gottingen</b> </p>
+<p> Have completed <b>M.Sc. Applied Computer Science</b> from <b>Georg-August Universität Göttingen</b> </p>
 <hr>
 <p>Relevant Profiles</p>
 <ul>
